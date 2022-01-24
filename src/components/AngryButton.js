@@ -5,7 +5,7 @@ function AngryButton() {
 
   const handleClick = () => {
     if (anger < 1) {
-      setAnger(anger + 1);
+      setAnger(anger + 0.1);
     } else {
       setAnger(0);
     }
