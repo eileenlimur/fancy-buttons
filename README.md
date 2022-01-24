@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Fancy Buttons
+
+4 types of buttons to practice React state.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
